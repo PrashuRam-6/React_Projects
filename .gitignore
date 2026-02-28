@@ -7,7 +7,7 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
-Simple_Background_Changer_App/node_modules
+*/node_modules
 dist
 dist-ssr
 *.local
