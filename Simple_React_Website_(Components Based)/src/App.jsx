@@ -4,7 +4,7 @@ import Hero from './assets/components/HeroSection/hero'
 
 const App = () => {
   return (
-    <div className=''>
+    <div className="min-h-screen flex flex-col">
       <Navbar />
       <Hero />
     </div>
