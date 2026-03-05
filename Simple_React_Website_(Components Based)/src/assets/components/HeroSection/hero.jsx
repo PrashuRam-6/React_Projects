@@ -12,3 +12,5 @@ const hero = () => {
 }
 
 export default hero
+
+// completed bro
